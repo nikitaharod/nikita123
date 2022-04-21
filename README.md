@@ -1,2 +1,0 @@
-# nikita123
-scanner
